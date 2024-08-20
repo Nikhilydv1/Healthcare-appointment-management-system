@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "outDir": "./out-tsc",
+    "module": "esnext",
+    "target": "es2015",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "declaration": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "lib": ["es2018", "dom"],
+    "skipLibCheck": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "noImplicitUsage": true,
+    "noImplicitOverwrite": true
+  }
+}
